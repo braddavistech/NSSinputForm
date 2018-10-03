@@ -30,7 +30,7 @@ html{
   border-radius: 10px;
   width: 90%;
   margin-left: 5%;
-  margin-top: 10vw;
+  margin-top: 0px;
   margin-bottom: 60px;
   background-color: grey;
   color: black;
@@ -91,7 +91,6 @@ html{
   position: relative;
   width: 100%;
   text-align: left;
-  top: 25vw;
   font-size: 20px;
   background-color: black;
   color: white;
