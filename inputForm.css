@@ -11,7 +11,7 @@ html{
 #backgroundImage{
   position: fixed;
   width: 100%;
-  margin-top: -30px;
+  top: 10vw;
   background-repeat: no-repeat;
   background-size: contain;
   z-index: 2;
@@ -44,7 +44,7 @@ html{
   border-radius: 10px;
   width: 90%;
   margin-left: 5%;
-  margin-top: 60px;
+  top: 20vw;
   margin-bottom: 60px;
   background-color: grey;
   color: black;
@@ -98,6 +98,7 @@ html{
   padding-left: 5vw;
   margin-bottom: 8vw;
   margin-top: 5vw;
+  top: 10vw;
   z-index: 5;
 }
 #footer{
